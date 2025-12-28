@@ -33,7 +33,7 @@ Check it out! It should be easy to run on most systems by using the cmake files 
 
 Email: mirek.kudinoff@hotmail.com
 
-LinkedIn: [www.linkedin.com/in/mirek-kudinoff](www.linkedin.com/in/mirek-kudinoff)
+LinkedIn: www.linkedin.com/in/mirek-kudinoff
 
 ## Tools I use
 
