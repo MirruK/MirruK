@@ -33,7 +33,7 @@ Check it out! It should be easy to run on most systems by using the cmake files 
 
 Email: mirek.kudinoff@hotmail.com
 
-LinkedIn: www.linkedin.com/in/mirek-kudinoff-b77a97262
+LinkedIn: [www.linkedin.com/in/mirek-kudinoff](www.linkedin.com/in/mirek-kudinoff)
 
 ## Tools I use
 
@@ -46,7 +46,7 @@ I look for tools with good defaults that allow for efficient, distraction free w
   
 ## Technology and Languages I like
 
-C++ - Has everything you need
+C++ - Can't comment, need a PhD in C++ first...
 
 C - Classic, no bs programming
 
